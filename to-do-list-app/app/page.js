@@ -90,7 +90,9 @@ const Page = () => {
    
   <header className='bg-dark-backgroun sticky top-0 z-20 mx-auto flex w-full items-center flex-wrap justify-between'>
   <div className='logo h-16 w-16 alt="logo'>
-    <img src='/logo.jpg'></img>
+    <img src='/logo.jpg'>
+      
+    </img>
     </div>
     
   {/* <Logo />
