@@ -1,0 +1,22 @@
+.header-main{
+
+  width: 100px;
+  height: 60px;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-between;
+}
+
+ .header-main-sm{
+width: fit-content;
+height: 100px;
+display: flex;
+padding-right: 30px;
+} 
+.header-main-logo
+{
+  width: fit-content;
+  height: 100px;
+  display: flex;
+  padding-left: 30px;
+}
